@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @alexeitkch
-- 👀 I’m interested in iOS development
+- 👋 Hi, I’m Aleksey!
+- 👀 I’m interested in iOS programming
 - 🌱 I’m currently learning Objective-C
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on other content github
 - 📫 How to reach me alexei.tkch@gmail.com
 
 <!---
