@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Aleksey!
-- 🌱 I’m currently learning C, Objective-C, Swift, Java
-- 💞️ I’m looking to collaborate on other content github
+- 🌱 I’m currently learning: C, Objective-C, Swift, Java... etc.
 - 📫 How to reach me alexei.tkch@gmail.com
 
 <!---
